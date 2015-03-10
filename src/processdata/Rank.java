@@ -2,7 +2,7 @@ package processdata;
 
 /**
  *
- * @author Kueter
+ * @author Wies Kueter WiesKueter.com
  */
 public class Rank {
     
